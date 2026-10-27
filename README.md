@@ -30,11 +30,20 @@
 
 ## 五、主要结论
 
+## 项目图表
+
 1. 在六个国家都有完整数据的最新年份（2024 年），美国的互联网普及率最高，为 94.7%；印度最低，为 64.9%，两者相差 29.8 个百分点。
+### 六国互联网普及率变化趋势
+<img width="2180" height="1178" alt="01_trend" src="https://github.com/user-attachments/assets/41c21b78-148e-4b63-b465-d7652746073b" />
 
 2. 从 2000 年到 2024 年，中国的互联网普及率增幅最大，增加了 90.2 个百分点。这说明其在该统计期间内增长较快，但不能仅凭这一指标推断增长原因。
+### 最新共同年份国家对比
+<img width="1980" height="1179" alt="02_latest_comparison" src="https://github.com/user-attachments/assets/857f5523-3639-4ea8-a446-c3ab3cbac89d" />
 
 3. 2024 年，中国的互联网普及率为 92.0%，高于六国平均值 85.9%。这里的平均值仅代表本项目选取的六个国家，不代表全球平均水平。
+### 六国互联网普及率增幅
+<img width="1980" height="1178" alt="03_growth" src="https://github.com/user-attachments/assets/b3de24fa-13af-455b-939a-64152b4adab9" />
+
 
 ## 六、分析限制
 
